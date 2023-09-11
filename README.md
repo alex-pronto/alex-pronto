@@ -1,9 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+There+I'am+Alexander)](https://git.io/typing-svg)
 
 
-```md
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alex-pronto&theme=dark)](https://git.io/streak-stats)
-```
 
 
 <!--
