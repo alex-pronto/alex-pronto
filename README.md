@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+There+I'am+Alexander)](https://git.io/typing-svg)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alex-pronto&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
 **alex-pronto/alex-pronto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
